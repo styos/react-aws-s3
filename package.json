@@ -1,5 +1,5 @@
 {
-  "name": "react-aws-s3",
+  "name": "@styos/react-aws-s3",
   "version": "1.5.0",
   "description": "Open Source Module to Upload your Media and files into AWS S3 Bucket directly from Front-end React.",
   "author": "Amit Mishra",
@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Developer-Amit/react-aws-s3.git"
+    "url": "git+https://github.com/styos/react-aws-s3.git"
   },
   "bugs": {
-    "url": "https://github.com/Developer-Amit/react-aws-s3/issues"
+    "url": "https://github.com/styosreact-aws-s3/issues"
   },
-  "homepage": "https://github.com/Developer-Amit/react-aws-s3#readme"
+  "homepage": "https://github.com/styos/react-aws-s3#readme"
 }
