@@ -111,7 +111,7 @@ ReactS3Client
 });
 ```
 
-Defaults your bucket to `public-read` : http://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
+Defaults your bucket to `private` : http://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
 
 `config`
   * `bucketName` **required** - Your S3 bucket

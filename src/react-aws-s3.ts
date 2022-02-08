@@ -19,7 +19,7 @@ class ReactS3Client {
       const key: string = `${this.config.dirName ? this.config.dirName + "/" : ""}${fileName}`;
       const url: string = GetUrl(this.config);
       fd.append("key", key);
-      fd.append("acl", "public-read");
+      fd.append("acl", "private");
       fd.append("Content-Type", file.type);
       fd.append("x-amz-meta-uuid", "14365123651274");
       fd.append("x-amz-server-side-encryption", "AES256");
